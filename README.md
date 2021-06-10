@@ -1,6 +1,6 @@
 # RocketShoes
 
-Aplicação dt rocketshoes foi criada na trilha de ReactJS do Ignite da Rocketseat. A aplicação é apresnta um crrinho de compras onde é possível escolher produtos e suas quantidades. É possível ainda visualizar a lista dos itens selecionados bem como total e subtotal da compra.
+Aplicação rocketshoes foi criada na trilha de ReactJS do Ignite da Rocketseat. A aplicação é apresnta um carrinho de compras onde é possível escolher produtos e suas quantidades. É possível ainda visualizar a lista dos itens selecionados bem como total e subtotal da compra.
 
 # Imagem da aplicação
 
